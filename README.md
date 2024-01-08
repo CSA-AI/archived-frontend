@@ -1,6 +1,6 @@
 # Install Instructions
 
-1. Install Dependencies: ```npm install```
+1. Install Dependencies: ```npm install```, ```npm install postcss```
 2. Run Server: ```make```
 
 ## Install Node.js
